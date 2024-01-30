@@ -1,0 +1,7 @@
+{
+    "name": "Birk",
+    "age": "23",
+    "city": "Copenhagen",
+    "isAlive": true,
+    "hobbies": ["something", 2, "okay"]
+}
