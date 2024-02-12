@@ -1,0 +1,19 @@
+5 cannot be done because it is the folder for the exercise
+11 cannot be done because I am in the chosen root folder
+30 cannot be done because one folder up is the root directory   
+37 cannot be completed as I am now in the root folder again   
+39 cannot be done as I am already in the root folder   
+40 cannot be done as I am already in the root folder   
+58 cannot be done as there are no files in the newly created directory
+64 cannot be done as there are no files in the directory 
+102 cannot be done as there are no files in the directory
+114 cannot be done as I am already in the root folder
+116 cannot be done as there are no files in the directory 
+135 cannot be done as I am already in the root folder
+137 cannot be done as I am already in the root folder
+162 cannot be done as I am already in the root folder
+167 cannot be done as I am already in the root folder
+170 cannot be done as I am already in the root folder
+178 cannot be done as I am already in the root folder
+190 cannot be done as I am already in the root folder
+  
